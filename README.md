@@ -4,4 +4,4 @@ Model Import .basic
 Initi .Net/1.0
 Add .log 
 Initi .moudule #3
-Begin program/1.0/DigtialCurrency/protocolcode 
+Begin program/1.0/DigtialCurrency/protocolcode.library 
